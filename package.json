@@ -1,0 +1,26 @@
+{
+  "name": "servicioarq",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabriCabrera13/servicioArq.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabriCabrera13/servicioArq/issues"
+  },
+  "homepage": "https://github.com/GabriCabrera13/servicioArq#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "http": "^0.0.1-security",
+    "pokeapi": "^0.0.1",
+    "request": "^2.88.2"
+  }
+}
