@@ -15,7 +15,7 @@ const students = [
 ];
 
 app.get('/',(req, res )=> {
-    res.send('Api microservicios');
+    res.send('Prueba pipeline corriendo ctm frozy');
 })
 
 // app.get('/api/students',(req,res)=>{
