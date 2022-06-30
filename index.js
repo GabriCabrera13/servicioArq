@@ -15,7 +15,7 @@ const students = [
 ];
 
 app.get('/',(req, res )=> {
-    res.send('Prueba pipeline corriendo ctm frozy');
+    res.send('Prueba pipeline corriendo');
 })
 
 // app.get('/api/students',(req,res)=>{
